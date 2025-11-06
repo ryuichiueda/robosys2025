@@ -1,8 +1,10 @@
 # uspell: スペルチェッカー
 
+![test](https://github.com/ryuichiueda/robosys2025/actions/workflows/test.yml/badge.svg)
+
 標準入力から英語の文を読んで、間違っている疑いのあるものを出力します。
 
-## 使い方
+## とりあえず使ってみてください
 
 ```bash
 $ git clone ...
